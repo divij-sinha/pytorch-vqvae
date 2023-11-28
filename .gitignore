@@ -112,3 +112,9 @@ models/
 
 # Slurm
 *.out
+
+# data
+/data
+
+# MacOS file
+.DS_Store
