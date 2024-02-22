@@ -1,6 +1,6 @@
 # Better Reconstruction Loss for VQ-VAE
 
-Colab Project available here - https://drive.google.com/dri ve/folders/1W6LW7lZsHF8BogACkjLmm_h_K7UidKV0?usp=sharing
+Colab Project available here - https://drive.google.com/drive/folders/1W6LW7lZsHF8BogACkjLmm_h_K7UidKV0?usp=sharing
 
 1. The paper I have chosen to work on is the [https://arxiv.org/abs/1711.00937](VQ-VAE: Neural Discrete Representation Learning)
 2. The Extension -
