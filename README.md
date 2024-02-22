@@ -14,14 +14,7 @@ My proposed extension would be to see if we could achieve an improvement in the 
 I would build this on top of the VQ-VAE model (the forked project), and compare to that. If time permits, I would also compare it to a comparable implemention of VQGAN.
 
 
-[final_project_results](Better Reconstruction Loss for VQ-VAE - Results)
-
-Citations:   
-[https://arxiv.org/abs/1711.00937]  
-[https://arxiv.org/abs/2012.09841]  
-[https://www.mathworks.com/help/images/image-quality-metrics.html]  
-[https://www.researchgate.net/profile/James-Fienup/publication/5588513_Invariant_error_metrics_for_image_reconstruction/links/594e833045851543382ea1ad/Invariant-error-metrics-for-image-reconstruction.pdf]
-
+[Better Reconstruction Loss for VQ-VAE - Results](Final-Project.pdf)
 
 
 # OLD README
